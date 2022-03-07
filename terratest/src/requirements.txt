@@ -1,0 +1,6 @@
+# requirements.txt
+flask
+firebase_admin
+gunicorn
+google-cloud-kms
+crcmod

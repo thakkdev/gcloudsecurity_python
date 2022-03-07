@@ -1,0 +1,28 @@
+
+<html lang=en xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Price Stats</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>#</text></svg>">
+</head>
+<body class="yellow lighten-5">
+  <nav class="teal darken-3">
+    <div class="nav-wrapper container"><a class="brand-logo center" href="#!">Price Stats</a>
+      <ul class="left" id="nav-mobile">
+        {% if accesstoken %}
+        <!--
+         <pre>
+        {{ accesstoken|tojson }}
+        </pre>
+      -->
+        <a href="/logout">logout</a>
+        {% else %}
+          <a href="/login">login</a>
+       <!-- <button class="waves-effect waves-light btn" >Sign In with Google</button> -->
+          {% endif %}
+      </ul>
+    </div>
+  </nav>
+</body>
+</html>

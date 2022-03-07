@@ -1,0 +1,4 @@
+Matplotlib
+Flask
+Pandas
+google-cloud-storage

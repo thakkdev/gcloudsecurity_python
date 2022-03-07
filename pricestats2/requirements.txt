@@ -1,0 +1,11 @@
+flask
+matplotlib
+requests
+pandas
+numpy
+ta
+google-cloud-secret-manager
+gunicorn
+firebase-admin
+structlog
+authlib
