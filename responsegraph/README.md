@@ -1,3 +1,3 @@
-Bar Chart Application On Google Cloud App Engine
+[Bar Chart Application on Google Cloud Part 1 PDF](http://example.com/path/to/bar_chart_application_on_google_cloud_p1.pdf)
 
-https://devthakkar.medium.com/bar-chart-application-on-google-cloud-app-engine-part-1-84d5f6d9f35d
+[Bar Chart Application on Google Cloud Part 2 PDF](./bar_chart_application_on_google_cloud_p2.pdf)
