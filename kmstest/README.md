@@ -1,3 +1,1 @@
-Use Cloud KMS To Encrypt Passphrase
-
-https://devthakkar.medium.com/use-cloud-kms-to-encrypt-passphrase-part-1-9ee16e87c09c
+[Deploy to Cloud Run Using Cloud Build PDF](./deploy_to_cloud_run_using_cloud_build_.pdf)
